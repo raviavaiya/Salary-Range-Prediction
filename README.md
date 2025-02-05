@@ -43,3 +43,10 @@ to develop a predictive model for estimating salary ranges for job listings as p
 - Post Until: The deadline for submitting applications.
 - Posting Updated: The date when the job posting was last updated.
 - Process Date: The date when the data was processed or recorded.
+
+### ⚙️ Technical Skills¶
+
+- 💻 Programming Languages: Python 🐍
+- 📊 Data Visualization: Matplotlib 📉, Seaborn 🌊, POWERBI 📊
+- 🧠 Machine Learning & Deep Learning: Scikit-learn 🤖, TensorFlow 🔥, PyTorch 🧩, NLP 
+- 🚀 Model Deployment: Flask 🌐, FastAPI ⚡
